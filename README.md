@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://i.imgur.com/4M7IWwP.gif)
 
-<!--
-**Shift4id/Shift4id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Sid!
 
-Here are some ideas to get you started:
+#### About Me!
+I am a 17 year old ```Full Stack Developer and UI/UX Designer``` from Silicon Valley that is passionate about creating unique user experiences.\
+Some of the different technologies I work with are: HTML, SCSS, Javascript, Node.js, Typescript, Next.js, React, and Electron.\
+Feel free to visit my portfolio to learn more about me [https://sid.fyi](https://sid.fyi)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Say Hello!
+Email: [hi@sid.fyi](mailto:hi@sid.fyi)\
+Twitter: [@shift4id](https://twitter.com/shift4id)\
+LinkedIn: [Siddharth Adusumelli](https://www.linkedin.com/in/sid-a)
+
+![](https://i.imgur.com/4M7IWwP.gif)
